@@ -1,0 +1,7 @@
+
+-------------------------------------------------------------------------------------LESSON 2-----------------------------------------------------------------------------------------
+What happens when you initialize a repository? Why do you need to do it?
+	A .git directory is created. You need to do that because this tells Git that the directory you are in is a repository. This makes it the main branch.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	The staging area is an area between the working directory and the repository. It is useful to group files before comitting them to the directory.
