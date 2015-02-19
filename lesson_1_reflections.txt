@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------------LESSON 1-----------------------------------------------------------------------------------------
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+	We were able to only view the lines that changed from one version to another, so the lines that could not have contained the bug were not visible. Thus helping me to find the bug faster.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	It allows you to go roll back to an earlier version to bring it back to life, to branch it off or to compare the different versions.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+	Pros: You will have more meaningful commits. Plus, you can add a message to help you understand the changes made in the commit.
+	Cons: It is up to the programmer's judgement. This may result in too many meaningless commits or too few commits. You may also forget to commit.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	Because Google Docs is meant to be easy to learn. It has a different purpose than Git.
+
+How can you use the commands git log and git diff to view the history of files?
+	You can use git log to view all the commits and the messages and ID of each commit.
+
+How might using version control make you more confident to make changes that could break something?
+	Since version control allows you to go back to any previous version using git checkout, making changes that might break the code is not a problem at all.
+	So in reality your changes never break the code for long, making you more confident in making changes.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+	I want to use Git for version control!! I want to create a repository and use Git to manage the versions.
